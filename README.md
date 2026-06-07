@@ -2,11 +2,11 @@
 
 A **React-based recipe discovery application** showcasing modern frontend development practices. Browse recipes, view detailed nutritional info, ingredients, preparation steps, and images in a responsive UI.
 
-> **📚 Learning Project** – Built to practice React fundamentals: component-based architecture, state management, API integration, and responsive design.
+> **Learning Project** – Built to practice React fundamentals: component-based architecture, state management, API integration, and responsive design.
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Details |
 |---|---|
@@ -18,7 +18,7 @@ A **React-based recipe discovery application** showcasing modern frontend develo
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -30,7 +30,7 @@ A **React-based recipe discovery application** showcasing modern frontend develo
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js v16+ & npm v8+
@@ -58,7 +58,7 @@ npm run build
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Recipe/
@@ -82,7 +82,7 @@ Recipe/
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 This project demonstrates:
 - ✅ Component composition and reusability
@@ -94,7 +94,7 @@ This project demonstrates:
 
 ---
 
-## 📦 Dependencies
+## Dependencies
 
 ```json
 {
@@ -107,7 +107,7 @@ This project demonstrates:
 
 ---
 
-## 🔄 Available Scripts
+## Available Scripts
 
 ```bash
 npm start      # Development server
@@ -117,7 +117,7 @@ npm test       # Run tests
 
 ---
 
-## 🎯 What's Next
+## What's Next
 
 - [ ] Add recipe ratings & user reviews
 - [ ] Implement meal planning feature
@@ -128,6 +128,12 @@ npm test       # Run tests
 
 ---
 
-<p align="left">
-Built with <strong> using React</strong> as a portfolio project. <br/>
+## License
+
+This project is **private** and was developed for educational/demonstration purposes. 
+
+---
+
+<p align="center">
+  Built with ❤️ using <strong>React</strong> & <strong>Material UI</strong>
 </p>
