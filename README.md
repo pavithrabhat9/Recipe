@@ -18,6 +18,18 @@ A **React-based recipe discovery application** showcasing modern frontend develo
 
 ---
 
+## 📸 Screenshots
+
+| Home Page |
+|:---:|
+| <img width="1920" height="1080" alt="Home Page" src="https://github.com/user-attachments/assets/c613e631-6f10-483c-b3d4-71416ddd71d7" /> |
+
+| Recipe Details | Recipe Instructions |
+|:---:|:---:|
+| <img width="1920" height="1080" alt="Recipe Details" src="https://github.com/user-attachments/assets/c6c58547-ad90-4560-b6a4-f591404904f0" /> | <img width="1920" height="1080" alt="Recipe Instructions" src="https://github.com/user-attachments/assets/65b86401-daa2-4313-b04b-48b7f34ea752" /> |
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
