@@ -18,7 +18,7 @@ A **React-based recipe discovery application** showcasing modern frontend develo
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Home Page |
 |:---:|
